@@ -1,0 +1,14 @@
+[*]
+# Unix-style newlines with a newline ending every file
+end_of_line = lf
+# Set default charset
+charset = utf-8
+# Insert new line at the end of file
+insert_final_newline = true
+# 4 space indentation
+indent_style = space
+indent_size = 4
+
+# setting for css html file
+[*.{css,html}]
+indent_size = 2
